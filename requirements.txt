@@ -1,0 +1,9 @@
+transformers>=4.37.0
+datasets>=2.16.0
+huggingface_hub>=0.20.0
+torch>=2.1.0
+accelerate>=0.26.0
+pandas>=1.5.3
+tqdm>=4.65.0
+protobuf>=4.21.0
+sentencepiece>=0.1.99
