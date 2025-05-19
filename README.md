@@ -1,5 +1,4 @@
-# Incentivizing Truthful Language Models via Peer Elicitation
-Games
+# Incentivizing Truthful Language Models via Peer Elicitation Games
 Official repository for our NeurIPS 2025 paper: “Incentivizing Truthful Language Models via Peer Elicitation
 Games”.
 
