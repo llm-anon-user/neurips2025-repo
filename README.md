@@ -6,6 +6,8 @@ Games”.
 We introduce Peer Elicitation Games (PEG), a training-free, game-theoretic framework for eliciting truthfull behavior from LLMs.
 
 ## 📁 Repository Structure
+
+```bash
 .
 ├── initial_policy/ # Notebooks for generating initial LLM policies from various datasets
 │ ├── initial_policy_diffModel_ARC.ipynb
@@ -18,9 +20,7 @@ We introduce Peer Elicitation Games (PEG), a training-free, game-theoretic frame
 ├── peg_application/ # Notebook implementing the core PEG mechanism
 │ └── PEG_mechanism.ipynb
 
-
----
-
+```
 ## ⚙️ Setup
 
 1. **Clone the repo**
